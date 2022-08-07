@@ -1,6 +1,6 @@
 # Mr-Black-Devil69 
-# Abbu-k-cheno-nah 
-#scrilt-copy-hobe-nah 
+# Any Problem Fb Msg me  
+
 <==> pkg update && pkg upgrade
 
 <==> pkg install git
